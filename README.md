@@ -1,4 +1,4 @@
-# ProjetReseau2
+# ProjetReseau1
 serveur DHCP dédié
 
 Pitch : la distribution des adresses est confiée à un serveur, comme en entreprise.
@@ -17,7 +17,7 @@ Clients : mettre les PC en DHCP.
 
 4. Vérification : baux reçus par les PC, ipconfig, ping vers la passerelle, le serveur et entre PC.
 
-5. Comparaison avec le projet 1 : la configuration passe de la ligne de commande à une interface graphique, et le routeur ne fait plus que router.
+5. Comparaison avec le projet 2 : la configuration passe de la ligne de commande à une interface graphique, et le routeur ne fait plus que router.
 
 6. Erreurs fréquentes : serveur laissé en DHCP ; service DHCP non activé ; pool sans passerelle ; plage de début qui chevauche l’IP du serveur.
 
